@@ -4,6 +4,7 @@ A complete MATLAB App that combines a Scientific Calculator and a Signal Generat
 
 Built for Signals & Systems / Engineering Lab - calculate, generate, operate and visualize signals in real-time.
 
+
 ## Features
 
 ### Scientific Calculator
